@@ -1,0 +1,11 @@
+*~
+~*
+
+dist/*
+build/*
+
+.hg/*
+*.py[cod]
+*.tmp
+*.swp
+
